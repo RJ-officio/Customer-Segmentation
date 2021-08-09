@@ -13,7 +13,7 @@ main.py contains a Flask api that posts desired sentence and fetches the predict
 model.h5 contains the saved keras model of LSTM.
 
 ## Overview:
-This github repository can be cloned with the following command in your cmd : "https://github.com/jaiobs/Personality-Traits-Analysis"
+This github repository can be cloned with the following command in your cmd : "https://github.com/jaiobs/Personality-Traits-Analysis" \n
 Move to the respective directory.
 pip install the requirements.txt with the following command in your python environment. "pip install -r requirements.txt"
 Once the requirements are loaded, run the main.py program with the command - "python main.py"
